@@ -16,7 +16,7 @@ const HesapSilme = () => (
 
     <h2>2. E-posta ile Hesap Silme Talebi</h2>
     <p>
-      Alternatif olarak, <a href="mailto:buswastudio@gmail.com" className="text-primary underline">buswastudio@gmail.com</a> adresine hesabınıza kayıtlı e-posta adresiyle bir silme talebi gönderebilirsiniz.
+      Alternatif olarak, <a href="mailto:busrwastudio@gmail.com" className="text-primary underline">busrwastudio@gmail.com</a> adresine hesabınıza kayıtlı e-posta adresiyle bir silme talebi gönderebilirsiniz.
     </p>
 
     <h2>3. Silme İşleminin Kapsamı</h2>

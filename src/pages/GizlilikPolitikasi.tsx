@@ -6,7 +6,7 @@ const GizlilikPolitikasi = () => (
     <p>
       Bu gizlilik politikası, <strong>Buswa Studio</strong> tarafından geliştirilen ve işletilen <strong>SwipeBooks</strong> mobil uygulaması için geçerlidir.
     </p>
-    <p>İletişim: <a href="mailto:buswastudio@gmail.com" className="text-primary underline">buswastudio@gmail.com</a></p>
+    <p>İletişim: <a href="mailto:busrwastudio@gmail.com" className="text-primary underline">busrwastudio@gmail.com</a></p>
 
     <h2>2. Toplanan Veriler</h2>
     <p>SwipeBooks, hizmetlerini sunabilmek amacıyla aşağıdaki verileri toplamaktadır:</p>

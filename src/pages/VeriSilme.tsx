@@ -34,17 +34,17 @@ const VeriSilme = () => (
     <p>Veri silme talebinizi aşağıdaki yöntemlerle iletebilirsiniz:</p>
     <ol>
       <li><strong>Uygulama içi:</strong> Profil → Hesabı Sil → Onay</li>
-      <li><strong>E-posta:</strong> <a href="mailto:buswastudio@gmail.com" className="text-primary underline">buswastudio@gmail.com</a></li>
+      <li><strong>E-posta:</strong> <a href="mailto:busrwastudio@gmail.com" className="text-primary underline">busrwastudio@gmail.com</a></li>
     </ol>
 
     <h2>5. Hesap Olmadan Veri Silme</h2>
     <p>
-      Hesabınıza erişiminiz yoksa, kayıt sırasında kullandığınız e-posta adresini belirterek <a href="mailto:buswastudio@gmail.com" className="text-primary underline">buswastudio@gmail.com</a> adresine veri silme talebi gönderebilirsiniz. Kimlik doğrulama amacıyla ek bilgi talep edilebilir.
+      Hesabınıza erişiminiz yoksa, kayıt sırasında kullandığınız e-posta adresini belirterek <a href="mailto:busrwastudio@gmail.com" className="text-primary underline">busrwastudio@gmail.com</a> adresine veri silme talebi gönderebilirsiniz. Kimlik doğrulama amacıyla ek bilgi talep edilebilir.
     </p>
 
     <h2>6. İtiraz ve Başvuru</h2>
     <p>
-      Veri silme işlemiyle ilgili her türlü itiraz ve sorunuz için <a href="mailto:buswastudio@gmail.com" className="text-primary underline">buswastudio@gmail.com</a> adresine başvurabilirsiniz. Başvurularınız en geç 30 gün içinde yanıtlanacaktır.
+      Veri silme işlemiyle ilgili her türlü itiraz ve sorunuz için <a href="mailto:busrwastudio@gmail.com" className="text-primary underline">busrwastudio@gmail.com</a> adresine başvurabilirsiniz. Başvurularınız en geç 30 gün içinde yanıtlanacaktır.
     </p>
   </LegalLayout>
 );

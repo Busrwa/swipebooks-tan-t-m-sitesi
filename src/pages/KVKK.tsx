@@ -9,7 +9,7 @@ const KVKK = () => (
     <h2>1. Veri Sorumlusu</h2>
     <p>
       Veri Sorumlusu: <strong>Buswa Studio</strong><br />
-      İletişim: <a href="mailto:buswastudio@gmail.com" className="text-primary underline">buswastudio@gmail.com</a>
+      İletişim: <a href="mailto:busrwastudio@gmail.com" className="text-primary underline">busrwastudio@gmail.com</a>
     </p>
 
     <h2>2. İşlenen Kişisel Veriler</h2>
@@ -63,7 +63,7 @@ const KVKK = () => (
 
     <h2>8. Başvuru Yöntemi</h2>
     <p>
-      Yukarıda belirtilen haklarınızı kullanmak için <a href="mailto:buswastudio@gmail.com" className="text-primary underline">buswastudio@gmail.com</a> adresine e-posta gönderebilirsiniz.
+      Yukarıda belirtilen haklarınızı kullanmak için <a href="mailto:busrwastudio@gmail.com" className="text-primary underline">busrwastudio@gmail.com</a> adresine e-posta gönderebilirsiniz.
     </p>
     <p>
       Başvurularınız en geç <strong>30 gün</strong> içinde yanıtlanacaktır.

@@ -4,7 +4,7 @@ const faqs = [
   { q: "SwipeBooks ücretsiz mi?", a: "Evet, SwipeBooks tamamen ücretsiz bir uygulamadır. Herhangi bir ücret veya abonelik gerekmez." },
   { q: "Hesap oluşturmak zorunlu mu?", a: "Uygulamanın temel özelliklerini kullanmak için hesap oluşturmanız gerekmektedir. Kayıt işlemi hızlı ve kolaydır." },
   { q: "Verilerim güvende mi?", a: "Evet, verileriniz Firebase altyapısı üzerinde TLS şifrelemesi ve güvenlik kuralları ile korunmaktadır. Verileriniz üçüncü taraflarla paylaşılmaz veya satılmaz." },
-  { q: "Hesabımı nasıl silebilirim?", a: "Uygulama içinden Profil → Hesabı Sil yolunu izleyebilir veya buswastudio@gmail.com adresine e-posta göndererek hesabınızın silinmesini talep edebilirsiniz." },
+  { q: "Hesabımı nasıl silebilirim?", a: "Uygulama içinden Profil → Hesabı Sil yolunu izleyebilir veya busrwastudio@gmail.com adresine e-posta göndererek hesabınızın silinmesini talep edebilirsiniz." },
   { q: "Kişisel verilerim nerede saklanıyor?", a: "Verileriniz Google Cloud (Firebase) altyapısında güvenli olarak saklanmaktadır. Detaylı bilgi için Gizlilik Politikamızı inceleyebilirsiniz." },
 ];
 
